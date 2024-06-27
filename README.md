@@ -9,9 +9,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Sneaker marketplace 👟 
+ 🔭 I’m currently working on Sneaker marketplace 👟 
  
- 🌱 I’m currently learning Next JS, Docker, AWS**
+ 🌱 I’m currently learning Next JS, Docker, AWS..
 
 💬 Ask me about Data Structures and Algorithms, Javascript, React ... or anything [here](https://github.com/lakshayarora8/lakshayarora8/issues)
 
