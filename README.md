@@ -9,13 +9,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **Sneaker marketplace 👟 **
  
  🌱 I’m currently learning **Next JS, Docker, AWS**
 
-💬 Ask me about ** Javascript, React,  ... or anything [here](https://github.com/lakshayarora8/lakshayarora8/issues)**
+💬 Ask me about ** Data Structures and Algorithms, Javascript, React ... or anything [here](https://github.com/lakshayarora8/lakshayarora8/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **The first computer mouse was made of wood.**
 
  </div>
  
@@ -28,11 +28,10 @@
   </a>
 <!--   <a href="https://salesp07.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a> -->
+  </a> 
 </div>
 
  <hr/>
- 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
